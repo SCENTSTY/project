@@ -73,10 +73,6 @@
     font-size: 22px;
     padding-bottom: 50px;
 }
-.ftr p{
-    color: rgba(0, 0, 0, 0.322);
-    background-color: rgba(49, 49, 49, 0.178);
-}
 ::-webkit-scrollbar{
     display: none;
 }
